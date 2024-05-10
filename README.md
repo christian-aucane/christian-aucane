@@ -30,7 +30,7 @@
 
   <h2 align="center">Contact</h2>
 
-  <p align="center">📫 Vous pouvez me contacter par <a href="mailto:christianaucane1@gmail.com">email</a> pour discuter de tout ce qui concerne la Data Science, les projets ou juste pour échanger des idées !</p>
+  <p align="center">📫 Vous pouvez me contacter par <a href="mailto:christianaucane1@gmail.com">email</a> ou via <a href="https://www.linkedin.com/in/christian-aucane/"><img src="assets/logo_linkedin" alt="Logo Linkedin" width=20>Linkedin</a> pour discuter de tout ce qui concerne la Data Science, les projets ou juste pour échanger des idées !</p>
 
   <h2 align="center">Merci !</h2>
 
