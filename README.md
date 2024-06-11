@@ -20,6 +20,21 @@
   <h2 align="center">Projets pour l'école et autres</h2>
 
   <p align="center">En tant qu'étudiant en Bachelor IT spécialisé en IA, j'ai travaillé sur divers projets liés à la Data Science et au Machine Learning, en utilisant des ensembles de données variés pour résoudre des problèmes complexes. Vous trouverez ici une sélection de mes projets personnels ainsi que ceux réalisés pour mes études.</p>
+  
+<ul align="center">
+  <li>
+    <h3 align="left">📌 Sudoku Solver</h3>
+    <p align="left">🔍 Description : Un jeu de Sudoku développé avec Python et Pygame avec résolution automatique, en utilisant la méthode Bruteforce et le Backtracking.</p>
+    <p align="left">🚀 Fonctionnalités principales :</p>
+    <ul align="left">
+      <li>✔️ Résolution automatique des grilles en utilisant des algorithmes avancés.</li>
+      <li>✔️ Interface utilisateur interactive avec Pygame.</li>
+      <li>✔️ Génération de graphiques sur les performances des différents algorithmes.</li>
+    </ul>
+    <p align="left">📂 <a href="https://github.com/christian-aucane/Sudoku-Solver">Repository</a></p>
+  </li>
+</ul>
+    
 
   <h2 align="center">Ce que vous trouverez ici</h2>
 
